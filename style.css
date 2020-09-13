@@ -516,6 +516,12 @@ li.social-links a {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.slider-bg-four {
+    background-image: url("uploads/slider_04.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .slider-bg-two {
     background-image: url("uploads/slider_02.jpg");
