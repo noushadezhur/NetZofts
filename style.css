@@ -2338,7 +2338,6 @@ select.mobile-device {
     bottom: 0;
     left: 0;
     background: #00aa86;
-	 background: linear-gradient(to bottom, #00aa86, #515151);
     z-index: 11000;
     position: fixed;
     display: block;
