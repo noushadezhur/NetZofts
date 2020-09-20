@@ -3318,6 +3318,14 @@ select.mobile-device {
 }
 }
 
+@media only screen and (max-width: 766px){
+	.dmtop.show {
+    bottom: 55px;
+}
+.copyrights {
+    margin-bottom: 45px;
+}
+}
 
 
 
