@@ -3310,7 +3310,12 @@ select.mobile-device {
     .address-item {
     width: 100%!important;
 }
-
+	.dmtop.show {
+    bottom: 55px;
+}
+.copyrights {
+    margin-bottom: 45px;
+}
 }
 
 
