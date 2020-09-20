@@ -468,7 +468,7 @@ a img.aligncenter {
     box-shadow: 0 10px 20px 0 rgba(5, 16, 44, .15);
     border-radius: 25px 0px 25px 0px;
     background: #00aa86;
-    background: linear-gradient(to bottom, #00aa86, #ff7f00);
+    background: linear-gradient(to bottom, #00aa86, #515151);
 }
 
 .header_style_01 .navbar-right > li {
@@ -1300,7 +1300,7 @@ li.social-links a {
     line-height: 62px;
     margin-top: 0;
     text-transform: none;
-    background: -webkit-linear-gradient(#00aa86, #ff7f00);
+    background: linear-gradient(to bottom, #00aa86, #515151);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -2062,7 +2062,7 @@ select.mobile-device {
     padding: 90px 0 80px !important;
     color: #c1c1c1;
     background-color: #00251d;
-    background: linear-gradient(to bottom, #01775e, #da6d00);
+    background: linear-gradient(to bottom, #00aa86, #515151);
     clear: both;
 }
 
@@ -2343,7 +2343,7 @@ select.mobile-device {
     bottom: 0;
     left: 0;
     background: #00aa86;
-	 background: linear-gradient(to bottom, #00aa86, #ff7f00);
+	 background: linear-gradient(to bottom, #00aa86, #515151);
     z-index: 11000;
     position: fixed;
     display: block;
