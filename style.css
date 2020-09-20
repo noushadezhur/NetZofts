@@ -1527,20 +1527,21 @@ hr.invis1 {
 #features li p {
     margin-bottom: 0;
     padding-bottom: 0;
+	display:none;
 }
 
 #features li {
     display: table;
     width: 100%;
-    margin: 64px 0;
+    margin: 54px 0;
     cursor: pointer;
-	-webkit-box-shadow: 0px 5px 35px 0px rgba(148, 146, 245, 0.15);
-	box-shadow: 0px 5px 35px 0px rgba(148, 146, 245, 0.15);
-	background: #393939;
-	border-radius: 25px 0px 25px 0px;
-	transition: all 1s ease-in-out;
+    -webkit-box-shadow: 0px 5px 35px 0px rgba(148, 146, 245, 0.15);
+    box-shadow: 0px 5px 35px 0px rgba(148, 146, 245, 0.15);
+    background: #393939;
+    border-radius: 25px 0px 25px 0px;
+    transition: all 1s ease-in-out;
+    padding: 10px;
 }
-
 #features li:hover {
 	transform: scale(1.07);
 	transition: all 1s ease-in-out;
@@ -1641,7 +1642,8 @@ hr.invis1 {
     text-transform: capitalize;
     margin: 0;
     font-size: 19px;
-	color: #ffffff;
+    color: #ffffff;
+    padding: 20px 0px 0px;
 }
 
 
