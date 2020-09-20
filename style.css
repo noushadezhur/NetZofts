@@ -3310,20 +3310,14 @@ select.mobile-device {
     .address-item {
     width: 100%!important;
 }
-	.dmtop.show {
-    bottom: 55px;
-}
-.copyrights {
-    margin-bottom: 45px;
-}
 }
 
 @media only screen and (max-width: 766px){
 	.dmtop.show {
-    bottom: 55px;
+    bottom: 55px!important;
 }
 .copyrights {
-    margin-bottom: 45px;
+    margin-bottom: 45px!important;
 }
 }
 
